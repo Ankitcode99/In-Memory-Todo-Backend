@@ -1,3 +1,3 @@
-#In Memory Todo
+# In Memory Todo
 
-A simple todo app with just in-memory datastore. Checkout here - [https://in-memory-todo.netlify.app/](https://in-memory-todo.netlify.app/)
+A simple todo app with in-memory datastore built on top of React using Vite. Checkout here - [https://in-memory-todo.netlify.app/](https://in-memory-todo.netlify.app/)
