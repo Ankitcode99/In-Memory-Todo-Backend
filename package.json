@@ -1,7 +1,7 @@
 {
   "homepage": "https://Ankitcode99.github.io/In-Memory-Todo-Frontend",
   "name": "in-mem-todo",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
